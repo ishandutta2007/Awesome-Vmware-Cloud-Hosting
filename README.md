@@ -17,7 +17,7 @@
 
 Welcome to the **Awesome VMware Cloud Hosting & Open-Source Virtualization Guide**! This repository tracks premier **SaaS managed VMware platforms**, **open-source hypervisors**, **hybrid-cloud control planes**, and **VM migration utilities** for infrastructure architects, sysadmins, and IT leaders evaluating virtualization strategies post-Broadcom acquisition.
 
-Whether you are looking to run **VMware SDDC workloads natively on hyperscaler bare-metal** (AWS, Azure, Google Cloud, Oracle) or migrate to enterprise-grade **open-source hypervisors** like **KubeVirt**, **OpenStack**, **Harvester**, **CloudStack**, **Proxmox VE**, or **XCP-ng**, this list provides up-to-date pricing, star counts, and feature breakdowns.
+Whether you are looking to run **VMware SDDC workloads natively on hyperscaler bare-metal** (AWS, Azure, Google Cloud, Oracle) or migrate to enterprise-grade **open-source hypervisors** like **KubeVirt**, **OpenStack**, **Harvester**, **CloudStack**, **Proxmox VE**, or **XCP-ng**, this list provides up-to-date pricing, Stars_Counts, and feature breakdowns.
 
 ---
 
@@ -54,9 +54,9 @@ Whether you are looking to run **VMware SDDC workloads natively on hyperscaler b
 
 ## 🛠️ Open-Source GitHub Virtualization Projects
 
-The open-source ecosystem for virtualization, cloud orchestration, and VM migration is production-proven. The projects below are **sorted by GitHub Star Count (Descending)**:
+The open-source ecosystem for virtualization, cloud orchestration, and VM migration is production-proven. The projects below are **sorted by GitHub Stars_Count (Descending)**:
 
-| 📦 Repository / Project | ⭐ GitHub Star Badge | 📜 License | 📄 Key Capabilities & VMware Alternative Fit |
+| 📦 Repository / Project | ⭐ GitHub Stars_Badge | 📜 License | 📄 Key Capabilities & VMware Alternative Fit |
 | :--- | :--- | :--- | :--- |
 | **[KubeVirt](https://github.com/kubevirt/kubevirt)** | [<img src="https://img.shields.io/github/stars/kubevirt/kubevirt?style=social&color=white" alt="KubeVirt Stars"/>](https://github.com/kubevirt/kubevirt/stargazers) | Apache-2.0 | **Cloud-native VM management on Kubernetes**. Enables running traditional virtual machine workloads side-by-side with containerized microservices. |
 | **[OpenStack](https://github.com/openstack/openstack)** | [<img src="https://img.shields.io/github/stars/openstack/openstack?style=social&color=white" alt="OpenStack Stars"/>](https://github.com/openstack/openstack/stargazers) | Apache-2.0 | **The premier open-source IaaS cloud platform**. Full-suite VMware vSphere/VCF replacement for private & public clouds; supports KVM, Xen, and VMware ESXi hosts. |
